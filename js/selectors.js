@@ -1,1 +1,5 @@
-// declare your functions here...
+function paragraphSelector() {
+let y = []
+  $('p')
+  return y
+}
