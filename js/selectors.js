@@ -1,3 +1,3 @@
-$(document).ready(function paragraphSelector() {
+function paragraphSelector() {
   $('p').return(p)
 })
