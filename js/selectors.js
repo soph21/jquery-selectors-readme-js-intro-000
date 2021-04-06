@@ -1,5 +1,3 @@
-function paragraphSelector() {
-let y = []
+$(document).ready(function paragraphSelector() {
   $('p')
-  return y
-}
+})
